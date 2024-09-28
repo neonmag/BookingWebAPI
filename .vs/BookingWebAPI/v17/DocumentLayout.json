@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\services\\validationorderservice\\ivalidateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\services\\validationorderservice\\ivalidateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\services\\validationorderservice\\validateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\services\\validationorderservice\\validateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\services\\calculatingservice\\calculatingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\services\\calculatingservice\\calculatingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\services\\calculatingservice\\icalculatingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\services\\calculatingservice\\icalculatingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\repositories\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\repositories\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\repositories\\irepositories\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\repositories\\irepositories\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\repositories\\hall\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\repositories\\hall\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\repositories\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\repositories\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\entity\\abstractions\\dbelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\entity\\abstractions\\dbelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\entity\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\entity\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\entity\\hall\\concerthall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\entity\\hall\\concerthall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\migrations\\20240928121217_refactororders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\migrations\\20240928121217_refactororders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|c:\\users\\gamer\\source\\repos\\bookingwebapi\\bookingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2ED7FAF-909A-47E9-B457-439C0620813E}|BookingWebAPI\\BookingWebAPI.csproj|solutionrelative:bookingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\ValidationOrderService\\ValidateOrder.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Services\\ValidationOrderService\\ValidateOrder.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\ValidationOrderService\\ValidateOrder.cs",
+              "RelativeToolTip": "BookingWebAPI\\Services\\ValidationOrderService\\ValidateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:41:22.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbElement.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Abstractions\\DbElement.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Entity\\Abstractions\\DbElement.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Abstractions\\DbElement.cs",
+              "RelativeToolTip": "BookingWebAPI\\Entity\\Abstractions\\DbElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:28:58.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\IRepositories\\IHallRepository.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Repositories\\IRepositories\\IHallRepository.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\IRepositories\\IHallRepository.cs",
+              "RelativeToolTip": "BookingWebAPI\\Repositories\\IRepositories\\IHallRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:28:12.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "RelativeToolTip": "BookingWebAPI\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:23:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatingService.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\CalculatingService\\CalculatingService.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Services\\CalculatingService\\CalculatingService.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\CalculatingService\\CalculatingService.cs",
+              "RelativeToolTip": "BookingWebAPI\\Services\\CalculatingService\\CalculatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:51:37.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Program.cs",
+              "RelativeToolTip": "BookingWebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:34:54.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Entity\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Orders\\Order.cs",
+              "RelativeToolTip": "BookingWebAPI\\Entity\\Orders\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:39:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HallController.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Controllers\\HallController.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Controllers\\HallController.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Controllers\\HallController.cs",
+              "RelativeToolTip": "BookingWebAPI\\Controllers\\HallController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:34:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcertHall.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Hall\\ConcertHall.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Entity\\Hall\\ConcertHall.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Entity\\Hall\\ConcertHall.cs",
+              "RelativeToolTip": "BookingWebAPI\\Entity\\Hall\\ConcertHall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:29:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "BookingWebAPI\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:31:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240928121217_RefactorOrders.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Migrations\\20240928121217_RefactorOrders.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Migrations\\20240928121217_RefactorOrders.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Migrations\\20240928121217_RefactorOrders.cs",
+              "RelativeToolTip": "BookingWebAPI\\Migrations\\20240928121217_RefactorOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:12:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\appsettings.json",
+              "RelativeToolTip": "BookingWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T11:44:51.603Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatingService.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\CalculatingService\\ICalculatingService.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Services\\CalculatingService\\ICalculatingService.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\CalculatingService\\ICalculatingService.cs",
+              "RelativeToolTip": "BookingWebAPI\\Services\\CalculatingService\\ICalculatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:30:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BookingWebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:48:15.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\Hall\\HallRepository.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Repositories\\Hall\\HallRepository.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\Hall\\HallRepository.cs",
+              "RelativeToolTip": "BookingWebAPI\\Repositories\\Hall\\HallRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:30:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\Orders\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Repositories\\Orders\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Repositories\\Orders\\OrderRepository.cs",
+              "RelativeToolTip": "BookingWebAPI\\Repositories\\Orders\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:16:48.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IValidateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\ValidationOrderService\\IValidateOrder.cs",
+              "RelativeDocumentMoniker": "BookingWebAPI\\Services\\ValidationOrderService\\IValidateOrder.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\BookingWebAPI\\BookingWebAPI\\Services\\ValidationOrderService\\IValidateOrder.cs",
+              "RelativeToolTip": "BookingWebAPI\\Services\\ValidationOrderService\\IValidateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:43:52.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
