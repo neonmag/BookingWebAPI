@@ -17,3 +17,10 @@ This is just a REST API, to work with it you must change connectionString in **a
 - **Documentation**: Swagger
 
 ### Setup
+1. **Clone the repository** https://github.com/neonmag/BookingWebAPI.git
+2. **Setup your SQL database**
+3. **Copy your connection string to database**
+4. **Paste your connection string in appsettings.json**
+5. **Run database migration**
+   dotnet ef database update
+6. **Run the application**
