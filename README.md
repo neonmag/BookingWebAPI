@@ -4,11 +4,11 @@
 This is just a REST API, to work with it you must change connectionString in **appsettings.json** and make **dotnet ef database update** in PM Console
 
 ## Features
-- **Керування концертними залами**: Create, Read, Update, Delete
-- **Керування резервуванням концертних зал**: Create, Read, Update, Delete
-- **Пошук вільних концертних зал**: Task<IEnumerable<ConcertHall>> GetAvailableOrders(DateTime date, TimeSpan startTime, TimeSpan endTime, int capacity);
-- **Динамічна зміна ціни**
-- **Валідація вхідної інформації на етапі створення зали, або резервування**
+- **Concert halls Management**: Create, Read, Update, Delete
+- **Management of reservation of concert halls**: Create, Read, Update, Delete
+- **Search for free concert halls**: Task<IEnumerable<ConcertHall>> GetAvailableOrders(DateTime date, TimeSpan startTime, TimeSpan endTime, int capacity);
+- **Dynamic price change**
+- **Validation of input information at the stage of hall creation or reservation**
 
 ## Technologies used:
 - **Backend**: ASP.NET Core
